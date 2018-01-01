@@ -19,7 +19,7 @@ I wanted to understand the whole idea behind blockchain so built this to clear c
 
     * [This](https://cito.github.io/blog/f-strings/) was cool too
 
-##Further Expansion?
+## Further Work?
 * Dockerize this API
 
 * Separation of concerns - move all the routes into a different file other than the main app file, basically use what Flask offers me
